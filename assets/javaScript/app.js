@@ -1,4 +1,5 @@
 $(document).ready(function() {
+ 
     //Array for searched topics to be added
     var topics = [];
     
@@ -83,6 +84,5 @@ $(document).ready(function() {
             $(this).attr("src", $(this).attr("data-still"));
             $(this).attr("data-state", "still");
       }
-    }
-    
+    }   
     });
