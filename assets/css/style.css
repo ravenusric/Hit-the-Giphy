@@ -1,0 +1,54 @@
+#header {
+	background-color: rgba(255, 0, 0, 0);
+	color: blue;
+	text-align: center;
+	padding-top: 10px;
+    padding-bottom: 15px;
+}
+h1 {
+    font-family: 'Faster One', cursive;
+}
+h4 {
+    font-family: 'Vast Shadow', cursive;
+}
+
+body{
+    background-image: url(../images/toonwar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    }
+
+label {
+    font-family: 'Vast Shadow', cursive;
+    color:whitesmoke;
+	font-size: 12px;
+}
+
+#show {
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#toonSearch {
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Carrois Gothic SC", sans-serif;
+}
+
+#gifArea {
+	clear: both;
+	display: inline;
+	flex-wrap: wrap;
+}
+
+.toonGiphy {
+	padding: 2px;
+	width: 80%;
+}
+#toonInput {
+    font-family: 'Vast Shadow', cursive;
+    color: blue;
+}
